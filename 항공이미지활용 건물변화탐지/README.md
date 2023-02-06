@@ -3,7 +3,7 @@
 - 일정 기간 전 후의 특정 좌표 항공이미지를 비교해 건물의 변화 탐지를 한다. pytorch_segmentation과 MMsegmentation을 활용했다.
 
 <프로젝트 기간 : 2022.10.15 ~ 2022.11.07>   
-<Tags : CV, Sementic Segmentation>
+<Tags : CV, Sementic Segmentation>  
 <역할 : 선행연구조사, MMsegmentation>
 
 <img src = './img/mm.png'>
