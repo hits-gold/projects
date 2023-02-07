@@ -1,10 +1,13 @@
 # 항공이미지활용 건물변화탐지
-### 한 줄 소개
-- 일정 기간 전 후의 특정 좌표 항공이미지를 비교해 건물의 변화 탐지를 한다. pytorch_segmentation과 MMsegmentation을 활용했다.
-
 <프로젝트 기간 : 2022.10.15 ~ 2022.11.07>   
 <Tags : CV, Sementic Segmentation>  
 <역할 : 선행연구조사, MMsegmentation>
+|기간|Tags|역할|
+|:---:|:---:|:---:|
+|2022.10.15 ~ 2022.11.07|CV, Sementic Segmentation|선행연구조사, MMsegmentation|
+
+## 프로젝트 요약
+- 일정 기간 전 후의 특정 좌표 항공이미지를 비교해 건물의 변화 탐지를 한다. pytorch_segmentation과 MMsegmentation을 활용했다.
 
 <img src = './img/mm.png'>
 
