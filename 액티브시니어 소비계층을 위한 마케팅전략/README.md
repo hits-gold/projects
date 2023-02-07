@@ -1,7 +1,7 @@
 # 액티브시니어 소비계층을 위한 마케팅전략
 
 |기간|Tags|역할|
-|:---:|:---:||:---:
+|:---:|:---:|:---:|
 |2021.04.14 ~ 2021.04.25|EDA, Clustering, Data Analysis, Marketing|팀장, EDA, Clustering|
 
 ## 프로젝트 
