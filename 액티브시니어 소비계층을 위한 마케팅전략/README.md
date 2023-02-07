@@ -2,6 +2,6 @@
 ### 한 줄 소개
 - 백화점 고객 정보와 구매 데이터를 활용해 군집분석을 진행했고, RFM분석 더해 우수 고객 집단을 분류해내고 군집의 특성에 맞는 마케팅 전략을 제시했다.
 
-<프로젝트 기간 : 2021.04.14 ~ 2021.04.25>
-<Tags : EDA, Clustering, Data Analysis, Marketing>
+<프로젝트 기간 : 2021.04.14 ~ 2021.04.25>  
+<Tags : EDA, Clustering, Data Analysis, Marketing>  
 <역할 : 팀장, EDA, Clustering>
