@@ -13,5 +13,5 @@
 - 따라서 fator1은 "간접적 요인", factor2는 "직접적 요인"이라고 명명했다.
 - 이 요인들을 변수로 활용했을 때의 벤치마킹은 아래와 같다.
 
-<img src = './img/factor_.png' width = 800>
+<img src = './img/factor_.PNG' width = 800>
 
