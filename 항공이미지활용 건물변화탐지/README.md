@@ -1,7 +1,5 @@
 # 항공이미지활용 건물변화탐지
-<프로젝트 기간 : 2022.10.15 ~ 2022.11.07>   
-<Tags : CV, Sementic Segmentation>  
-<역할 : 선행연구조사, MMsegmentation>
+
 |기간|Tags|역할|
 |:---:|:---:|:---:|
 |2022.10.15 ~ 2022.11.07|CV, Sementic Segmentation|선행연구조사, MMsegmentation|
